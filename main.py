@@ -24,7 +24,7 @@ def special(char_name, char_class):
         return (f'{char_name} применил специальное умение «Защита {10 + 30}»')
 
 
-
+#asgit push origin
 
 def start_training(char_name, char_class):
     if char_class == 'warrior':
